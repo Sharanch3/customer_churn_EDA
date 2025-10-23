@@ -66,7 +66,7 @@ Customers show varying levels of engagement — some listen occasionally, while 
 
 ### 4. Relationships between numeric variables:
 
-🖼️ [View Correlation Heatmap](./images/correlation_heatmap.png)
+[![View Correlation Heatmap](images/correlation_heatmap.png)](images/correlation_heatmap.png)
 
 This heatmap helps identify which variables may be good predictors for customer churn.
 
